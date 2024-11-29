@@ -1,0 +1,27 @@
+body {
+    margin: 25px;
+    font-family: 'Times New Roman', Times, serif ;
+    font-size: large;
+    
+}
+
+.avatar {
+    width: 150px;
+    
+}
+
+.card {
+    box-shadow: 10px 10px 10px 5px #ce8788;
+    width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #ff9ea1;
+    color: coral;
+    border: 6px double #ff686b;
+    border-radius: 10px;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black, 0 -1px black;
+}
+
